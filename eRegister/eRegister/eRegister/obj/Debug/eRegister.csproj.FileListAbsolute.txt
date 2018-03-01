@@ -1,0 +1,9 @@
+C:\Users\569869\Downloads\eRegister\eRegister\eRegister\bin\Debug\eRegister.exe.config
+C:\Users\569869\Downloads\eRegister\eRegister\eRegister\bin\Debug\eRegister.exe
+C:\Users\569869\Downloads\eRegister\eRegister\eRegister\bin\Debug\eRegister.pdb
+C:\Users\569869\Downloads\eRegister\eRegister\eRegister\obj\Debug\eRegister.csprojResolveAssemblyReference.cache
+C:\Users\569869\Downloads\eRegister\eRegister\eRegister\obj\Debug\eRegister.Form1.resources
+C:\Users\569869\Downloads\eRegister\eRegister\eRegister\obj\Debug\eRegister.Properties.Resources.resources
+C:\Users\569869\Downloads\eRegister\eRegister\eRegister\obj\Debug\eRegister.csproj.GenerateResource.Cache
+C:\Users\569869\Downloads\eRegister\eRegister\eRegister\obj\Debug\eRegister.exe
+C:\Users\569869\Downloads\eRegister\eRegister\eRegister\obj\Debug\eRegister.pdb
